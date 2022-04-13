@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anish1308
 - 👀 I’m interested in working on projects
-- 🌱 I’m currently learning C Sharp
-- 💞️ I’m looking to collaborate on .Net Core
+- 🌱 I’m currently learning Full Stack Web Development
+- 💞️ I’m looking to collaborate on React.js and NEXT.js
 - 📫 How to reach me - anishranjansatya@gmail.com
 
 <!---
